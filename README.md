@@ -29,7 +29,7 @@ The objective of this test was to analyze the unstructured data within JSON file
 
 After thorough exploration of the files, I've formulated a robust design capable of accommodating the data contained within them. The process and findings of the data exploration can be reviewed in the [Data-Exploration.ipynb](https://github.com/kedartakwane/data-fuse/blob/main/Data-Exploration.ipynb) file. Additionally, a comprehensive Class Diagram illustrating the proposed Data Model has been provided in [Data-Model](/data-model.png).
 
-![Data-Model](/data-model.png)
+![Data-Model](/data-model.jpg)
 
 ## Task 2: SQL queries to answer predetermined questions from Stakeholders
 
