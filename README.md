@@ -27,15 +27,17 @@ The objective of this test was to analyze the unstructured data within JSON file
 
 ## Task 1: Designing a Data Model
 
-After thorough exploration of the files, I've formulated a robust design capable of accommodating the data contained within them. The process and findings of the data exploration can be reviewed in the `Data-Discovery.ipynb` file. Additionally, a comprehensive Class Diagram illustrating the proposed Data Model has been provided in `data-model.png`.
+After thorough exploration of the files, I've formulated a robust design capable of accommodating the data contained within them. The process and findings of the data exploration can be reviewed in the [Data-Exploration.ipynb](https://github.com/kedartakwane/data-fuse/blob/main/Data-Exploration.ipynb) file. Additionally, a comprehensive Class Diagram illustrating the proposed Data Model has been provided in [Data-Model](/data-model.png).
+
+![Data-Model](/data-model.png)
 
 ## Task 2: SQL queries to answer predetermined questions from Stakeholders
 
-I have answered three questions which can be found in `queries.md`.
+I have answered three questions which can be found in [queries](queries.md).
 
 ## Task 3: Evaluating Data Quality Issues
 
-Additional material to support me finding can be found in `Data-Issues.ipynb` file.
+Additional material to support me finding can be found in [Data-Issues](/Data-Issues.ipynb) file.
 
 ### Summary of issues with users.json
 
@@ -60,11 +62,12 @@ Additional material to support me finding can be found in `Data-Issues.ipynb` fi
 
 ## Task 4: Informing Stakeholders
 
-An email draft has been prepared for communication purposes. Please refer to the file named `Email.eml` for the draft. Alternatively, if the email draft is inaccessible, kindly review the PDF version provided for the same correspondence: `Email.pdf`.
+An email draft has been prepared for communication purposes. Please refer to the file named [Email.eml](Email.eml) for the draft. Alternatively, if the email draft is inaccessible, kindly review the PDF version provided for the same correspondence: [Email.pdf](Email.pdf).
 
 ## About Me
 
 I'm Kedar, and I'm excited to bring my expertise to the role of Analytic Engineer. With over three years of experience in software engineering, I've specialized in building large-scale data pipelines, search systems, and visualizations using Python, JavaScript, Elasticsearch, and Kafka. My proficiency extends to web frameworks like Flask and React, where I've honed my skills in agile development, test-driven coding, and infrastructure automation with Docker and Kubernetes. I'm passionate about leveraging data to drive insights and make informed decisions, and I look forward to contributing to your team's success.
 
 LinkedIn: https://linkedin.com/in/kedar-takwane
+
 GitHub: https://github.com/kedartakwane
